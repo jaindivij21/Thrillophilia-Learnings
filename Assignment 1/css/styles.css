@@ -1,0 +1,76 @@
+/* Tag Selectors */
+body {
+    background-color: white;
+    color: white;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+img {
+    width: 11rem;
+    height: auto;
+}
+
+input {
+    width: 80%;
+    border: none;
+    padding: 0.5rem;
+    background-color: transparent;
+    color: white;
+    font-size: 0.8rem;
+}
+input:focus {
+    outline: none;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+}
+
+li:hover {
+    cursor: pointer;
+    border-bottom: 0.1rem solid orangered;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+}
+
+/* Class Selectors */
+
+/* Main Section */
+.index-section {
+    min-height: 100vh;
+    background-image: url("./assets/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-page {
+    margin: 0 15% 0 15%;
+}
+
+/* Nav Bar */
+.nav {
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01em solid rgba(255, 255, 255, 0.644);
+    padding: 1% 0 1% 0;
+}
+.nav-img {
+    flex: 1;
+}
+.nav-search {
+    flex: 3.3;
+}
+.nav-links {
+    flex: 1;
+    text-align: center;
+}
