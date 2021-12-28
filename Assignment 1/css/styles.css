@@ -29,8 +29,6 @@ ul {
     margin: 0;
     padding: 0;
 }
-li {
-}
 
 li:hover {
     cursor: pointer;
@@ -60,17 +58,26 @@ a {
 /* Nav Bar */
 .nav {
     display: flex;
-    align-items: center;
     border-bottom: 0.01em solid rgba(255, 255, 255, 0.644);
-    padding: 1% 0 1% 0;
+    padding: 1% 0 0.1% 0;
+}
+.nav-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .nav-img {
     flex: 1;
 }
 .nav-search {
-    flex: 3.3;
+    flex: 3.4;
+}
+.nav-logo {
+    flex: 4;
+    display: flex;
 }
 .nav-links {
+    padding-top: 1.5%;
+    display: flex;
     flex: 1;
-    text-align: center;
 }
