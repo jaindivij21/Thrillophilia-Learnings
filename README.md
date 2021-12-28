@@ -5,4 +5,4 @@
 1. Github, HTML, CSS
 Used vanilla CSS and HTML to create the clone of homepage for Thrillophilia.
 
-![Thrillophilia Website](https://github.com/jaindivij21/Thrillophilia-Learnings/Assignment 1/results/blob/main/1.jpg?raw=true)
+![Thrillophilia Website](https://github.com/jaindivij21/Thrillophilia-Learnings/blob/main/Assignment 1/results/1.jpg?raw=true)
