@@ -98,6 +98,11 @@ button:focus {
     opacity: 100;
 }
 
+p {
+    margin: 0 3rem 0 1rem;
+    letter-spacing: 1.5px;
+    font-size: small;
+}
 /* Class Selectors */
 
 /* Main Section */
@@ -192,4 +197,20 @@ button.last-button {
     bottom: 3rem;
     background-color: transparent;
     border: none;
+}
+
+/* Footer */
+.footer {
+    display: flex;
+    justify-content: space-around;
+    color: rgba(255, 255, 255, 0.644);
+    padding: 1rem 0 1rem 0;
+    margin: 6.5em 0 0 0;
+}
+
+.footer-content {
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
