@@ -7,10 +7,10 @@
 ![Thrillophilia Website](https://github.com/jaindivij21/Thrillophilia-Learnings/blob/main/Assignment%201/results/1.png)
 
 2. Ruby: Use Ruby to implement Weather App and CSV Segregator.
--- Used httparty for https requests
--- Used AccuWeather for Weather App
--- Used Faker to generate fake email IDs
--- Used Ruby's CSV Module for CSV workflow 
+- Used "httparty" module for https requests
+- Used AccuWeather for Weather App
+- Used Faker to generate fake email IDs
+- Used Ruby's CSV Module for CSV workflow 
 
 Therefore install all these following packages, and use your AccuWeather API
 ```
